@@ -1,1 +1,0 @@
-This folder contain the main structures and approaches to realize a straightforward networks with various techniques for training this models.
